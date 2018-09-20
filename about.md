@@ -1,15 +1,10 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
+I'm just a small girl with big dreams.
 
-This is an about page about this awesome site.
-Hope you love it!
+Since I was a little girl, I've been interested in a lot of things...
 
-Reasons:
-- its great.
-- its a test.
-
-## Other thoughts
-
-This is great.
+## Contact Me
+rkothari31@yahoo.com
