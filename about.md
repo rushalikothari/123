@@ -1,5 +1,3 @@
-YAML Front Matter
-
 ---
 layout: page
 title: About
