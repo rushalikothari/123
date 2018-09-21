@@ -1,1 +1,1 @@
-Passionate about medicine, business, and politics
+Aspiring healthcare professional
