@@ -7,4 +7,4 @@ github_username:  rushalikothari
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-cayman
