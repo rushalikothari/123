@@ -10,9 +10,4 @@
 <h1>
 <a href="projects.html" title="Project">Projects</a>
 <h1/>
-<h1>
-&nbsp;
-<h1/>
-<h1>
-<a href="_posts" title="Blog Posts">Posts</a>
-<h1/>
+
