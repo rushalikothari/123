@@ -1,4 +1,10 @@
-Aspiring healthcare professional
+p {
+    font-family: "Times New Roman", Times, serif;
+}
+
+
+<p class="a">Explore the links below to find out who I am and what makes me tick.</p>
+
 
 <h1>
 <a href="about.html" title="About Me">About Me</a>
